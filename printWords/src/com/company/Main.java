@@ -11,48 +11,11 @@ public class Main {
 	    System.out.print("Введіть слово ");
 	    word = inputDevice.next();
 
-//	    char letter1 = word.charAt(0);
-//		char letter2 = word.charAt(1);
-//		char letter3 = word.charAt(2);
-//		char letter4 = word.charAt(3);
 
 
 
-//		char[] word1 = {' ', ' ', ' ', ' ', ' ',letter1,' ', ' ', ' ', ' ', ' ', letter2, ' ', ' ', letter3,' ', ' ', ' ', ' ', letter3,' ', ' ', ' ',' ', letter4} ;
-//		char[] word2 = {' ', ' ', ' ', ' ', ' ',letter1,' ', ' ', ' ', ' ',  letter2,' ', letter2,' ', ' ', letter3,' ', ' ',  letter3,' ', ' ',' ',  letter4,' ',' ',' ', letter4} ;
-//		char[] word3 = {' ', ' ', ' ', ' ', ' ',letter1,' ', ' ', ' ', letter2, ' ', ' ',' ', letter2,' ', ' ',letter3, letter3,' ', ' ',' ', letter4, ' ' ,' ',' ',' ',' ', letter4} ;
-//		char[] word4 = {letter1,' ', ' ', ' ', ' ', letter1,' ', ' ',    letter2, letter2, letter2,letter2,letter2,letter2,' ', ' ',  letter3,' ',' ',' ',  letter4,letter4,letter4,letter4,letter4,letter4,letter4,} ;
-//		char[] word5 = {letter1,' ', ' ', ' ', ' ', ' ', letter2, ' ', ' ', letter3,' ', ' ', ' ', ' ', letter3,' ', ' ',  letter4} ;
 
 
-//		int[][] anArray1 = {
-//				{0,0,0,1,0,0,0},
-//				{0,0,0,1,0,0,0},
-//				{0,0,0,1,0,0,0},
-//				{1,0,0,1,0,0,0},
-//				{1,1,1,1,0,0,0}
-//		};
-//		int[][] anArray2 = {
-//				{0,0,0,1,0,0,0},
-//				{0,0,1,0,1,0,0},
-//				{0,1,0,0,0,1,0},
-//				{1,1,1,1,1,1,1},
-//				{1,0,0,0,0,0,1}
-//		};
-//		int[][] anArray3 = {
-//				{1,0,0,0,0,0,1},
-//				{0,1,0,0,0,1,0},
-//				{0,0,1,0,1,0,0},
-//				{0,0, 1,1,0,0,0},
-//				{0,0,0,1,0,0,0}
-//		};
-//		int[][] anArray4 = {
-//				{0,0,0,1,0,0,0},
-//				{0,0,1,0,1,0,0},
-//				{0,1,0,0,0,1,0},
-//				{1,1,1,1,1,1,1},
-//				{1,0,0,0,0,0,1}
-//		};
 		int[][] anArray1 = {
 				{0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0},
 				{0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0},
