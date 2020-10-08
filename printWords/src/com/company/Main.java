@@ -24,11 +24,11 @@ public class Main {
 				{1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1}
 		};
 
-		for (int i = 0; i < 5; i++) {  //идём по строкам
-			for (int j = 0; j < 29; j++) {//идём по столбцам
+		for (int i = 0; i < 5; i++) { 
+			for (int j = 0; j < 29; j++) {
 				if (anArray1[i][j] == 0) {
 					anArray1[i][j] = ' ';
-					System.out.print(anArray1[i][j]); //вывод элемента
+					System.out.print(anArray1[i][j]); 
 				}
 			}
 
